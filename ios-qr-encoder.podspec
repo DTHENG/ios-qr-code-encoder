@@ -19,4 +19,6 @@ Feel free to get in touch with us in regards to any questions or cooperation req
 
   s.source_files = 'src/**/*.{h,m.c}'
 
+  s.xcconfig = { 'OTHER_LDFLAGS' => '-ObjC -all_load' }
+
 end
