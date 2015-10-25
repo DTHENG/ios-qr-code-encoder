@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "ios-qr-encoder"
-  s.version          = "1.0.4"
+  s.version          = "1.0.5"
   s.summary          = "This is an Objective-C library that helps to easily convert a UIImage with a QR-code from NSString with just one line of code."
   s.description      = <<-DESC
 This is an Objective-C library that helps to easily convert a UIImage with a QR-code from NSString with just one line of code. It uses qrencode to generate QR code and CoreGraphics to draw an image. 
