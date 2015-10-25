@@ -17,7 +17,7 @@ Feel free to get in touch with us in regards to any questions or cooperation req
   s.platform     = :ios, '6.0'
   s.requires_arc = true
 
-  s.source_files = 'src/**/*.{h,m.c}'
+  s.source_files = 'src/**/*.{h,m,c}'
 
   s.xcconfig = { 'OTHER_LDFLAGS' => '-ObjC -all_load' }
 
